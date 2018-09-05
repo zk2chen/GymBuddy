@@ -14,3 +14,7 @@ How To Use GymBuddy:
 *To talk to another user that matches your request you just simply click on the users request and you will be able to message them.
 
 *Requests made will be deleted the next day. Also you can only have one active request therefore if you want to make another request, but already have an active one, you must delete the active one first. This can be done by clicking the "My Requests" button the home page which take you to your active request allowing you to delete it.
+
+# Screenshots
+![alt text](http://funkyimg.com/view/2L14f)
+
